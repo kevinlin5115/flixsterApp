@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 ![](https://i.imgur.com/Uc3J18O.gif)
-
+<img src="https://i.imgur.com/Uc3J18O.gif" width=250><br>
 ### Notes
 The process of building the app went smoothly by following the detailed instruction videos. However, when I tried to push the project onto Github it showed that the version of the repo is too old so I tried pulling from github and re-push it again. When I do that, the original files I created (eg. GridCell, MovieDetailsViewController etc.) were gone. 
 
